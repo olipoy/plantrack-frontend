@@ -1,6 +1,6 @@
 {
   "build": {
-    "builder": "static",
+    "builder": "static-site",
     "buildCommand": "npm run build",
     "outputDirectory": "dist"
   }
